@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Project 2-1.exe" version="1.0.0.1" publicKeyToken="483182ef654bcd42" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Project 2-1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Project 2-1.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Project 2-1.exe" size="20480">
+      <assemblyIdentity name="Project 2-1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>zSWVGkbcuTPxmhud1E7XwZafL62BcdYsX+Ms5jjY65Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Project 2-1.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=Tanvir\Shoukhin" issuerKeyHash="2145e4d778b3729ccb4072a370d94c06ef93aa6a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>UeJ4WqnN1YOQ4bdOqu8TkMZEWiWtdcrGAOUqBQ5MJ0E=</DigestValue></Reference></SignedInfo><SignatureValue>T2in/qkmA5g6LEF+DvRPjURjj6yJ70silmiU+Ay6Xp0jc9TvPqAy1u4ixhl9sbYokuaZoYYqItXqC78M1rKKi0GcVi7Ai7mUIGb35h7wOkzHjjrZt/fEUDB5AYhiSAWthZQrmkkGYGdgNEGAf1c2Vt7pVyVebB6MFDhEJCwOPjc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>l3Ff3hk3qhZ9tk7yBpJjrzxRb3vYy+dtZdWvjZTJMx+YgL2W/JDmtJJFyIMJ5OAE0GDfGFe0kFoJJvq4TFH7vRJDWoG0tdCyT2/74wSPrUdeOastHopjuxMuYKNT3MDLMG8bBqZhvIsAMMpTf+KHIaq+xB6S0DT6QpC18XxJYOc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="41274c0e052ae500c6ca75ad255a44c69013efaa4eb7e19083d5cda95a78e251" Description="" Url=""><as:assemblyIdentity name="Project 2-1.exe" version="1.0.0.1" publicKeyToken="483182ef654bcd42" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=Tanvir\Shoukhin</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>71WB8UmqfagEyOPh/06GoKpv2KgaIvLgDFRc/y9Iqhs=</DigestValue></Reference></SignedInfo><SignatureValue>V8eLtyjcorzakuHjLNYbkbSpqbKFeXk31Os/x2LVjdL+4EaTGCsVXRHbSSVqwJ0m8rDtRl0P8oNBixZTM39cn9HwQWAlHE5AXF1egj8Rqd7l8U7bZwyI5kc/zeyNNAdB39wmVSeVbRme1eDYvmAJMq2K0/93eH99BTrrYTZtOyQ=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>l3Ff3hk3qhZ9tk7yBpJjrzxRb3vYy+dtZdWvjZTJMx+YgL2W/JDmtJJFyIMJ5OAE0GDfGFe0kFoJJvq4TFH7vRJDWoG0tdCyT2/74wSPrUdeOastHopjuxMuYKNT3MDLMG8bBqZhvIsAMMpTf+KHIaq+xB6S0DT6QpC18XxJYOc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQJ8VFVkDdjIJCZ8nvGfyPjDANBgkqhkiG9w0BAQsFADApMScwJQYDVQQDHh4AVABhAG4AdgBpAHIAXABTAGgAbwB1AGsAaABpAG4wHhcNMTUxMTEwMDE1MjUwWhcNMTYxMTA5MDc1MjUwWjApMScwJQYDVQQDHh4AVABhAG4AdgBpAHIAXABTAGgAbwB1AGsAaABpAG4wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJdxX94ZN6oWfbZO8gaSY688UW972MvnbWXVr42UyTMfmIC9lvyQ5rSSRciDCeTgBNBg3xhXtJBaCSb6uExR+70SQ1qBtLXQsk9v++MEj61HXjmrLR6KY7sTLmCjU9zAyzBvGwamYbyLADDKU3/ihyGqvsQektA0+kKQtfF8SWDnAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAbbElA7jKpm0PfyBHJIwdxjtYgBeQHR/ScVO8UCRJnk37IWXLLxFDa5pgxAPlyAZ5nI01kHVXdh+Ofgh/gbMTZf5nhPVIn7N7ooBC0K7z8X5weaLwznVBCxzxpPW3/Ma6iVYEW5JnvqVytF0OieodNU1JqeY7UdsXDF09RGcsx+Q=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

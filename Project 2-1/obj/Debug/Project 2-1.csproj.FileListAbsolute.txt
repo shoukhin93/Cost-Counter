@@ -1,0 +1,34 @@
+E:\Programming\Projects\Project 2-1\Project 2-1\bin\Debug\Project 2-1.exe.config
+E:\Programming\Projects\Project 2-1\Project 2-1\bin\Debug\Project 2-1.exe
+E:\Programming\Projects\Project 2-1\Project 2-1\bin\Debug\Project 2-1.pdb
+E:\Programming\Projects\Project 2-1\Project 2-1\obj\Debug\Project 2-1.csprojResolveAssemblyReference.cache
+E:\Programming\Projects\Project 2-1\Project 2-1\obj\Debug\Project_2_1.Add_form.resources
+E:\Programming\Projects\Project 2-1\Project 2-1\obj\Debug\Project_2_1.Add.resources
+E:\Programming\Projects\Project 2-1\Project 2-1\obj\Debug\Project_2_1.Form1.resources
+E:\Programming\Projects\Project 2-1\Project 2-1\obj\Debug\Project_2_1.Properties.Resources.resources
+E:\Programming\Projects\Project 2-1\Project 2-1\obj\Debug\Project 2-1.csproj.GenerateResource.Cache
+E:\Programming\Projects\Project 2-1\Project 2-1\obj\Debug\Project 2-1.exe
+E:\Programming\Projects\Project 2-1\Project 2-1\obj\Debug\Project 2-1.pdb
+E:\Programming\Projects\Project 2-1\Project 2-1\obj\Debug\Project_2_1.View.resources
+E:\Programming\Projects\Project 2-1\Project 2-1\obj\Debug\Project_2_1.Delete.resources
+E:\Programming\Projects\Project 2-1\Project 2-1\bin\Debug\Project 2-1.exe.manifest
+E:\Programming\Projects\Project 2-1\Project 2-1\bin\Debug\Project 2-1.application
+E:\Programming\Projects\Project 2-1\Project 2-1\obj\Debug\Project 2-1.exe.manifest
+E:\Programming\Projects\Project 2-1\Project 2-1\obj\Debug\Project 2-1.application
+E:\COST COUNTER\Project 2-1\Project 2-1\bin\Debug\Project 2-1.exe.config
+E:\COST COUNTER\Project 2-1\Project 2-1\obj\Debug\Project 2-1.exe
+E:\COST COUNTER\Project 2-1\Project 2-1\obj\Debug\Project 2-1.pdb
+E:\COST COUNTER\Project 2-1\Project 2-1\bin\Debug\Project 2-1.exe.manifest
+E:\COST COUNTER\Project 2-1\Project 2-1\bin\Debug\Project 2-1.application
+E:\COST COUNTER\Project 2-1\Project 2-1\bin\Debug\Project 2-1.exe
+E:\COST COUNTER\Project 2-1\Project 2-1\bin\Debug\Project 2-1.pdb
+E:\COST COUNTER\Project 2-1\Project 2-1\obj\Debug\Project 2-1.csprojResolveAssemblyReference.cache
+E:\COST COUNTER\Project 2-1\Project 2-1\obj\Debug\Project_2_1.Add_form.resources
+E:\COST COUNTER\Project 2-1\Project 2-1\obj\Debug\Project_2_1.Add.resources
+E:\COST COUNTER\Project 2-1\Project 2-1\obj\Debug\Project_2_1.Delete.resources
+E:\COST COUNTER\Project 2-1\Project 2-1\obj\Debug\Project_2_1.Form1.resources
+E:\COST COUNTER\Project 2-1\Project 2-1\obj\Debug\Project_2_1.Properties.Resources.resources
+E:\COST COUNTER\Project 2-1\Project 2-1\obj\Debug\Project_2_1.View.resources
+E:\COST COUNTER\Project 2-1\Project 2-1\obj\Debug\Project 2-1.csproj.GenerateResource.Cache
+E:\COST COUNTER\Project 2-1\Project 2-1\obj\Debug\Project 2-1.exe.manifest
+E:\COST COUNTER\Project 2-1\Project 2-1\obj\Debug\Project 2-1.application
